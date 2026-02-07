@@ -1,0 +1,14 @@
+For developing the project we will be using
+-------------------------------------------------------
+Frontend--HTML,CSS,JAVASCRIPT
+Middleware --Servlet,JSP
+Backend--Oracle 10xe
+server--Weblogic Server,Tocat server
+Eclipse
+-------------------------------------------------------------------------------------------
+software requirements--Oracle 10xe,Weblogic Server,Tocat server,Eclipse
+-------------------------------------------------------------------------------------------
+Hardware requirements--intel i3,RAM--4 gb,harddisk--1tb
+-------------------------------------------------------------------------------------------
+GITHUB link---https://github.com/sandipmohapatra/BCAPROJECT2026
+-----------------------------------------------------------------------------------------------
